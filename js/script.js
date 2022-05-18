@@ -21,3 +21,11 @@
 const kmDaPercorrere = prompt("quanti chilometri devi percorrere?")
 const età = prompt("qual'è la tua età?")
 
+//prezzo del biglietto
+// km * 0.21
+const 
+
+
+// SCONTI
+//SE eta < 18 sconto -20% ALTRIMENTI 0.21 * km
+//SE eta > 65 sconto -40% ALTRIMENTI 0.21 * km
