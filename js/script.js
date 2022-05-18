@@ -17,3 +17,7 @@
 // età è stata inserita
 // km è un numero valido?
 // posso inserire un minimo / massimo di km possibili?
+
+const kmDaPercorrere = prompt("quanti chilometri devi percorrere?")
+const età = prompt("qual'è la tua età?")
+
